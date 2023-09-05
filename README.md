@@ -11,9 +11,9 @@
 <ul>
     <li>🏫 I'm currently an <em>MSCS</em> student at <strong>Georgia Institute of Technology, Atlanta, USA</strong></li>    
     <li>💼 I have worked as a <em>Senior Data Scientist</em> at <strong>Gojek</strong></li> 
-    <li>💼 I have worked as a <em>Senior Data Scientist</em> and a <em>Data Scientist</em> at <strong>Mu Sigma</strong> for 3 years</li>
+    <li>💼 I have worked as a <em>Senior Data Scientist/Data Scientist</em> at <strong>Mu Sigma</strong> for approx 3 years</li>
     <li>👨‍🎓 I graduated with a bachelors in <em>Electronics & Communication Engineering</em> from <strong>Panjab University, Chandigarh, India</strong></li>
-    <li>🧐 I believe doing hands-on is the best teacher and I strive to keep learning</li>
+    <li>🧐 I believe doing hands-on is the best teacher</li>
 </ul>
 <hr>
 
@@ -54,6 +54,12 @@
 </ul>
 <hr>
 
+<!-- Projects -->
+<h3>Some projects I have worked on 👩‍💻</h3>
+<h5 align="left"><i>Coming soon ... </i></h5>
+<img align="center" src="https://media.tenor.com/GhhCc8zcQJYAAAAd/penguins-on-my-way.gif" height="250px" width="250px">
+
+<hr>
 <!-- Contact Details -->
 <h3>📫 Best ways to reach me ✨</h3>
 <div align="center">
@@ -71,8 +77,8 @@
 
 <!-- Github stats -->
 <div style="display:flex;justify-content:space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pankhuri-s30&count_private=true&show_icons=true&theme=radical" width="52%" alt="pankhuri-s30">  
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuri-s30&layout=compact&theme=radical" width="40%" alt="pankhuri-s30">
+    <img src="https://github-readme-stats.vercel.app/api?username=pankhuri-s30&count_private=true&show_icons=true&theme=radical" height="200px" width="52%" alt="pankhuri-s30">  
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuri-s30&layout=compact&theme=radical" height="200px" width="47%" alt="pankhuri-s30">
 </div>
 <hr>
 
