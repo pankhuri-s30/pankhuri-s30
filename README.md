@@ -1,18 +1,19 @@
 <h1 align="center">Hi there 👋! I'm Pankhuri Singh</h1> 
 <h5 align="center"><i>Work in progress....⚠️</i></h5>
 
-<p>I am an artistic person by nature and a graduate Computer Science student at the Georgia Institute of Technology <img width="22" alt="Screenshot 2023-09-05 at 1 03 08 AM" src="https://github.com/pankhuri-s30/pankhuri-s30/assets/114882302/c4a8d7a8-9958-4d26-a168-f6b872381e12">. Being a tech enthusiast, I love all things data and solving complex business problems using Machine Learning and Data Science. 
+<p>I am an artistic person by nature and a graduate student specializing in <em>Machine Learning</em> at the Georgia Institute of Technology <img width="22" alt="Screenshot 2023-09-05 at 1 03 08 AM" src="https://github.com/pankhuri-s30/pankhuri-s30/assets/114882302/c4a8d7a8-9958-4d26-a168-f6b872381e12">. Being a tech enthusiast, I love all things data and solving complex business problems using Machine Learning and Data Science. </p>
+	<p>I am also a Data Scientist with 4+ years of work experience solving business problems across 4+ industries including Pharmaceutical, Manufacturing, Finance, Retail, and Marketing.</p>
 
 <!-- Background -->
 <hr>
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180px"> -->
-<h3>⚡ Some things that might interest you👇</h3>
+<h3>⚡ Some things that might interest you 👇</h3>
 <ul>
-    <li>🏫 I'm currently a <em>Computer Science</em> master's student at <strong>Georgia Institute of Technology, Atlanta, USA</strong></li>    
+    <li>🏫 I'm currently an <em>MSCS</em> student at <strong>Georgia Institute of Technology, Atlanta, USA</strong></li>    
     <li>💼 I have worked as a <em>Senior Data Scientist</em> at <strong>Gojek</strong></li> 
     <li>💼 I have worked as a <em>Senior Data Scientist</em> and a <em>Data Scientist</em> at <strong>Mu Sigma</strong> for 3 years</li>
     <li>👨‍🎓 I graduated with a bachelors in <em>Electronics & Communication Engineering</em> from <strong>Panjab University, Chandigarh, India</strong></li>
-    <li>🧐 I believe doings handson is best teacher and strive to keep learning</li>
+    <li>🧐 I believe doing hands-on is the best teacher and I strive to keep learning</li>
 </ul>
 <hr>
 
@@ -42,7 +43,9 @@
 <!-- Passion -->
 <hr>
 <!-- <img align="right" src="https://media.tenor.com/kJKJLmHcpfgAAAAC/canticos-nicky.gif" height="175px" width="250px"> -->
-<h3>When I am not playing with Data, I am most likely</h3>
+<!-- <img align="right" src="https://media.tenor.com/RWM5B4_D5pMAAAAC/squirtle-eating.gif" height="150px" width="250px"> -->
+<img align="right" src="https://media.tenor.com/9uRkKa-TrlsAAAAC/naruto-anime.gif" height="150px" width="250px">
+<h3>📌 When I am not playing with Data, I am most likely 👽</h3>
 <ul>
     <li>Binging an anime 🎥</li>
     <li>Trying new food 🍲</li>
@@ -53,16 +56,16 @@
 
 <!-- Contact Details -->
 <h3>📫 Best ways to reach me ✨</h3>
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/singh-pankhuri/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
     </a>&nbsp;&nbsp;
     <a href="mailto:pankhuri.s30@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/pankhuri-s30/">
+<!--     <a href="https://github.com/pankhuri-s30/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>&nbsp;&nbsp;   
+    </a>&nbsp;&nbsp;    -->
 </div>
 <hr>
 
